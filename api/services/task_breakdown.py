@@ -6,7 +6,7 @@ from decouple import config
 MODEL_LOCK = Lock()
 
 GEMINI_API_KEY = config("GEMINI_API_KEY", default=None)
-GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key="
+GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key="
 
 def query_gemini(prompt):
     if not GEMINI_API_KEY:
