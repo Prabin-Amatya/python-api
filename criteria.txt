@@ -1,0 +1,74 @@
+here is my thoery
+people habits are highly effected by 4 things
+their current position in life, their neurodivergence ,their mental health and their reason
+
+so my app will have a form which asks questions that will be parameters for my modal
+they are
+1)age
+2)job
+3)marital status
+4)no of children
+5)gender
+6)Income
+7)top 5 hobbies/interests
+
+these are to calculate the current status in life
+
+8)autism level
+9)adhd level
+10) other neurological conditions
+11) personality type
+12) ocd level
+
+these to determine the type of mind user has
+
+
+13) do you attach your self worth with your tasks
+14) How was your mother: loving, absent but in life, abandoned, she has trouble communicating
+15) How was your father: loving, absent but in life, abandoned, he has trouble communicating
+16) were u ever bullied
+17) was your family volatile
+18) are you clinically depressed
+19) is your life terribly effected by loss of someone
+
+
+this is to determine their mental health
+
+finally i have another criteria
+their reason for trying to be productive
+
+
+
+20) what is your reason for trying to be productive
+i) anger: to prove someone who talked down on u
+ii) ego: to prove u are better than everyone else
+iii) fear: your self worth is dependent on this
+iv) pressure: someone/everyone says u need to do this
+v) genuine interest: u just want to try this new thing
+vi) grind: alpha male grind mindset
+vii) fomo: fear of missing out by not doing enough
+viii) self: u want to be productive for nothing else, none else but for your own wellbeing
+
+
+
+how much do u struggle with productivity
+i) last minute work done
+ii) i don't get things done
+iii) i am very consistent
+iv) i get most things done but struggle sometimes
+
+are u planning to do a comeback
+i) yes
+ii) no
+iii) already doing good
+
+
+criteria
+from system
+is morning or night person?
+from system to check success rate(this is so i can recommend habits of similar users who are seeing success, this is not to be used to determine if two users are similar)
+1) total task started(s)
+2) total task failed(f)
+3) total task finished(fin)
+4) success rate: (s/fin)/(f/fin)
+
